@@ -1,4 +1,4 @@
-# Random Message Generator
+# Mixed Messages Generator
 
 ## Introduction
 This is a Codecademy training project, where I had to create a javascript that would randomly print out a message as output.
